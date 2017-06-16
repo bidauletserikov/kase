@@ -1,0 +1,14 @@
+.main {
+    text-align: center;
+    background: url(http://www.inparkmagazine.com/wp-content/uploads/2016/03/C08-02-1024x597.jpg);
+    padding: 250px 0;
+    background-size: cover;
+    color: white;
+    text-shadow: 3px 3px 3px black;
+    font-size: 32px;
+    background-attachment: fixed;
+}
+
+.main h1:hover, .main h3:hover {
+  color: rgb(100, 100, 100);
+}
